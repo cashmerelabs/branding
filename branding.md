@@ -4,16 +4,13 @@
 Autonomous Monetary Infrastructure: the stablecoin super app to move, earn, and settle at the best rate everywhere.
 
 ## Positioning
-- Category: Stablecoin super app (mobility, yield, privacy, on/off-ramps) delivered as one infrastructure layer.
-- Promise: If you hold a stablecoin, Cashmere handles every transaction at the best rate—zero slippage, deterministic outcomes.
-- Differentiators: Native burn-and-mint (CCTP/USDT0), automated relayers, policy controls, omnichain coverage (EVM + non-EVM).
+ Stablecoin super app (mobility, yield, privacy, on/off-ramps) delivered as one infrastructure layer.
 
 ## Narrative Spine (use across site, decks, ads)
 1) Fragmentation is costly: bridges fragment liquidity, add slippage, and expose risk.  
-2) Autonomous layer: Cashmere unifies mobility, yield, privacy, and ramps in one programmable fabric.  
+2) Autonomous layer: Cashmere unifies mobility, yield and ramps in one programmable fabric.  
 3) Proof today: zero-slippage transfers live; gas ≈150k on EVM; 8–20s finality; no wrapped assets.  
 4) What it unlocks: stablecoin treasuries move, earn, and settle privately across any chain from one app.  
-5) Future chapters: autonomous yield and privacy (in testing), unified ramps (in development).
 
 ## Voice & Tone
 - Confident, technical, efficient; never hypey.
@@ -22,11 +19,10 @@ Autonomous Monetary Infrastructure: the stablecoin super app to move, earn, and 
 
 ## Copy Blocks (ready-to-use)
 - Hero H1: “Autonomous Monetary Infrastructure”  
-- Hero H2: “The stablecoin super app to move, earn, and settle at the best rate everywhere.”
-- Supporting line: “If you hold a stablecoin, Cashmere moves it cross-chain with zero slippage, allocates yield autonomously, and keeps flows private—with one click.”
-- CTAs: “Launch App”, “Talk to Sales”, “View Docs”
+- Hero H2: “Move, earn, and settle at the best rate always.”
+- Supporting line: “If you hold a stablecoin, Cashmere moves it cross-chain with zero slippage, allocates yield autonomously, and makes on/off ramps one click.”
 - Pillar titles: Mobility (zero-slippage transfers), Autonomy (yield agents), Privacy (zk settlement), Access (on/off ramps).
-- Proof bullets: “0.00% slippage via native burn-and-mint; ≈150k gas on EVM; 8–20s finality; no wrapped assets.”
+- Proof bullets: “0.00% slippage; ≈150k gas; 8–20s finality; no wrapped assets.”
 
 ## Landing Page Structure (above the fold to footer)
 - Hero: One-liner + stablecoin super app framing; primary CTA; secondary CTA to docs.
@@ -36,8 +32,7 @@ Autonomous Monetary Infrastructure: the stablecoin super app to move, earn, and 
 - How it works (4 steps): Quote → Burn → Attest → Mint (single transaction UX).
 - Use cases (tiles): Treasuries, Fintech wallets, DeFi teams, Institutions (privacy/compliance).
 - Performance cards: gas (≈150k), speed (8–20s), slippage (0.00%), architecture (native burn-and-mint vs wrapped).
-- Roadmap/status: Bridge (Production), Yield Agents (Closed testnet), Privacy (Research), Gate (In development).
-- Final CTA: “Launch on Mainnet” + “Book Integration Call”.
+- Roadmap/status: Bridge (Production), Yield Agents (Closed testnet), Privacy (Research), Gate (Research).
 
 ## Visual Identity (directions for designer)
 - Logo concept: clean wordmark + abstract “flow ring” or interlocking arcs to signal native mint/burn loops; avoid crypto clichés (chains/locks). Works in solid, outline, and monochrome.
@@ -70,8 +65,8 @@ Autonomous Monetary Infrastructure: the stablecoin super app to move, earn, and 
 ## Quick Proof Points (for callouts, ads)
 - Zero slippage; native burn-and-mint, no wrapped assets.
 - ≈150k gas on EVM; 8s (L2) / 20s (L1) execution.
-- Coverage: Ethereum, Arbitrum, Base, Optimism, Polygon, Avalanche, Solana, Sui, Aptos, Cosmos + more.
-- Automation: relayer-signed quotes with ~100s expiry; MEV-resistant deterministic outputs.
+- Coverage: EVM, Solana, Aptos, Sui
+- Automation: guaranteed relayer-signed quotes; MEV-resistant deterministic outputs.
 
 ## Do / Don’t
 - Do: Lead with “Autonomous Monetary Infrastructure” and “best rate, every chain.” Pair every claim with a mechanism (native mint, relayers, policy engine).
