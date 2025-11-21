@@ -29,7 +29,7 @@ Autonomous Monetary Infrastructure: the stablecoin super app to move, earn, and 
 - Credibility strip: issuer/alignment logos (Circle CCTP, USDT0) and supported chains (ETH, Arbitrum, Base, Solana, Sui, Aptos…).
 - Product pillars (4-up): Mobility, Autonomy, Privacy, Access with one-sentence outcomes.
 - “Best Rate, Every Chain”: explain zero slippage, deterministic outputs, and why native minting beats market-maker routes.
-- How it works (4 steps): Quote → Burn → Attest → Mint (single transaction UX).
+- How it works (4 steps): Quote → Source Stablecoin Burn → Attest → Destination Stablecoin Mint (single transaction UX).
 - Use cases (tiles): Treasuries, Fintech wallets, DeFi teams, Institutions (privacy/compliance).
 - Performance cards: gas (≈150k), speed (8–20s), slippage (0.00%), architecture (native burn-and-mint vs wrapped).
 - Roadmap/status: Bridge (Production), Yield Agents (Closed testnet), Privacy (Research), Gate (Research).
